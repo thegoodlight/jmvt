@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../machine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-app-landing-page"
+	}
+}
