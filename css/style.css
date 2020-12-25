@@ -28,7 +28,7 @@ h2 {
 
 /* Top Bar */
 #top {
-	position: fixed; top: 40px!important;
+	position: fixed; top: 0px!important;
 	left: 0px;
 	right: 0px;
 	background: white !important;
